@@ -1,0 +1,21 @@
+<?php
+
+/**
+ * @file
+ */
+
+/**
+ * Flushes all caches.
+ */
+function simple_global_filter_update_8001(&$sandbox) {
+  drupal_flush_all_caches();
+  \Drupal::messenger()->addMessage('simple_global_filter (8001): Caches flushed');
+}
+
+/**
+ * Flushes all caches.
+ */
+function simple_global_filter_update_8002(&$sandbox) {
+  drupal_flush_all_caches();
+  \Drupal::messenger()->addMessage('simple_global_filter (8002): Caches flushed');
+}
