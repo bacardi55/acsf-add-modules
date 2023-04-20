@@ -1,0 +1,6 @@
+name: React Table Demo component
+type: module
+description: Provides a table demo custom components for site studio
+core_version_requirement: ^9 || ^10
+dependencies:
+  - cohesion
