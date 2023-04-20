@@ -1,8 +1,10 @@
 name: React Table Component
 category: cpt_cat_example
 js:
-  js/main.e6c13ad2.css: {}
+  js/App.js: {}
+  js/index.js: {}
+  js/makeData.js: {}
 css:
-  css/main.e6c13ad2.css: {}
+  css/index.css: {}
 preview_image: preview.png
 html: table.html
