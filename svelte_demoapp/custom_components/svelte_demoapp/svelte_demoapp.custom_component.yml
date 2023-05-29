@@ -1,0 +1,16 @@
+name: Svelte Demo App
+category: cpt_cat_example
+js:
+  chunks/index.5ff26389.js: {}
+  chunks/singletons.7c55cf0c.js: {}
+  entry/app.2524c475.js: {}
+  entry/start.0941cfff.js: {}
+  nodes/0.06a58899.js: {}
+  nodes/1.0e35c98e.js: {}
+  nodes/2.af6bfb4d.js: {}
+css:
+  assets/2.4bc35512.css: {}
+  assets/_page.4bc35512.css: {}
+preview_image: preview.png
+html: demo.html
+

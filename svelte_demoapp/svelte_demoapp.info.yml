@@ -1,0 +1,7 @@
+name: Svelte Demo Todo component
+type: module
+description: Provides a demo component for todolist using svelte
+core_version_requirement: ^9 || ^10
+dependencies:
+  - cohesion
+
